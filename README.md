@@ -1,5 +1,4 @@
 # cookies-serialize-unserialize-setcookie-php-ecommerce
-<h1> cookies-serialize-unserialize-setcookie-php-ecommerce </h1>
 <h3>Objectifs  </h3>
 <ul>
 <li> Comprendre ce qu’est un cookie et à quoi il sert </li>
